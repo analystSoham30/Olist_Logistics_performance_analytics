@@ -2,6 +2,13 @@
 
 The objective of this project is to analyze marketplace fulfillment performance and freight cost efficiency for Olist across 96K+ order logs in Brazil. It focuses on evaluating delivery SLA breaches, isolating fulfillment bottlenecks between seller dispatch vs. carrier transit, identifying high-risk geographic shipping lanes, and quantifying the freight cost burden relative to total order revenue.
 
+## Dashboard preview - 
+
+<img width="1149" height="647" alt="Screenshot 2026-08-26 193422" src="https://github.com/user-attachments/assets/95f432b9-1a1d-41aa-83a2-45e3a91d9663" />
+
+<img width="1168" height="650" alt="Screenshot 2026-08-26 193501" src="https://github.com/user-attachments/assets/076ca577-c5ef-466e-b2be-39526594d4b5" />
+
+
 Tech Stack
 Excel – Data source and initial data preparation
 
