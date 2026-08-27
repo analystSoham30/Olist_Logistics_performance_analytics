@@ -4,11 +4,11 @@ The objective of this project is to analyze marketplace fulfillment performance 
 
 ## Dashboard preview - 
 
-1. Fulfillment based overview -
+1. Fulfillment based overview:
 
 <img width="1149" height="647" alt="Screenshot 2026-08-26 193422" src="https://github.com/user-attachments/assets/95f432b9-1a1d-41aa-83a2-45e3a91d9663" />
 
-2. Cost based overview
+2. Cost based overview:
    
 <img width="1168" height="650" alt="Screenshot 2026-08-26 193501" src="https://github.com/user-attachments/assets/076ca577-c5ef-466e-b2be-39526594d4b5" />
 
@@ -19,7 +19,7 @@ The objective of this project is to analyze marketplace fulfillment performance 
 * Power BI – Data modeling, DAX measure creation, and interactive two-page executive dashboard development
 
 ## Repository Architecture - 
--**/raw database/**: Original Olist e-commerce relational dataset used for the analysis.
+-**/Raw database/**: Original Olist e-commerce relational dataset used for the analysis.
 
 -**/SQL scripts/**: MySQL scripts used for data cleaning, lead time metrics computation, and relational view creation.
 
